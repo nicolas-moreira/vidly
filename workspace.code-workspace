@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mongo-demo"
+		},
+		{
+			"path": "../relationdata"
+		}
+	],
+	"settings": {}
+}

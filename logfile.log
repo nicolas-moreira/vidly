@@ -1,0 +1,19 @@
+{"message":"something failed during startup","stack":"Error: something failed during startup\n    at Object.<anonymous> (/Users/nicolas/Desktop/Course NODEJS/exos/vidly/index.js:30:7)\n    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n    at Module.load (internal/modules/cjs/loader.js:933:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-06-28T03:14:49.230Z"}
+{"message":"something failed during startup","stack":"Error: something failed during startup\n    at Object.<anonymous> (/Users/nicolas/Desktop/Course NODEJS/exos/vidly/index.js:33:7)\n    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n    at Module.load (internal/modules/cjs/loader.js:933:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-06-28T03:15:31.307Z"}
+{"message":"Failed","stack":"Error: Failed\n    at Object.<anonymous> (/Users/nicolas/Desktop/Course NODEJS/exos/vidly/index.js:39:26)\n    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n    at Module.load (internal/modules/cjs/loader.js:933:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-06-28T03:18:43.888Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:47:25.682Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:50:09.364Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:51:40.221Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:52:22.840Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:53:12.573Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:53:26.043Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:53:29.469Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:54:01.658Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:54:42.689Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:55:15.690Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-06-28T03:56:01.103Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:56:01.132Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-06-28T03:56:45.845Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T03:56:45.919Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-06-28T04:00:02.415Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-06-28T04:00:02.444Z"}
